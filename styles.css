@@ -1,17 +1,22 @@
 h1 {
-  font-family: Arial;
-}
-
+  font-family: 'Satisfy', cursive;
+  font-size: 50px
+  }
+    
 h4 {
-  margin-bottom: 0;
-}
+   margin-bottom: 0;
+   }
 
 ul, ol {
-  margin-top: 0;
-}
+   margin-top: 0;
+   }
 
 .copyright {
-  font-family: Arial;
-  font-size: 9px;
-  font-style: italic;
-}
+   font-family: Poppins;
+   font-size: 15px;
+   font-style: italic;
+    }
+    
+body {
+   background-color: #FAF0DC;
+    }
